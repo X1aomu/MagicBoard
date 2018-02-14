@@ -1,0 +1,70 @@
+.root {
+    -fx-background-color: bisque;
+}
+
+.menu-bar {
+    -fx-background-color: burlywood;
+}
+
+.button {
+    -fx-background-color: burlywood;
+    -fx-background-radius: 5;
+}
+
+.button:hover {
+    -fx-background-color: peru;
+}
+
+.radio-button {
+    -fx-background-color: burlywood;
+    -fx-background-radius: 0;
+}
+
+.radio-button .radio {
+    -fx-background-color: #bc9665;
+}
+
+.radio-button:hover {
+    -fx-background-color: #bc9665;
+}
+
+.radio-button:hover .radio {
+    -fx-background-color: burlywood;
+}
+
+.radio-button:selected {
+    -fx-background-color: #bc9665;
+}
+
+.radio-button:selected .radio {
+    -fx-background-color: skyblue;
+}
+
+.radio-button:selected .dot {
+    -fx-background-color: skyblue;
+}
+
+.board-pane {
+    -fx-background-color: grey;
+    -fx-padding: 2;
+    -fx-vgap: 2;
+    -fx-hgap: 2;
+}
+
+.number-button {
+    -ffx-background-colo: #4495d4;
+    -fx-background-color: #7cb5e2;
+    -fx-background-radius: 0;
+}
+
+.number-button:hover {
+    -fx-background-color: skyblue;
+}
+
+#left-button:hover {
+    -fx-background-color: mediumseagreen;
+}
+
+#right-button:hover {
+    -fx-background-color: indianred;
+}
