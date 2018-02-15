@@ -15,8 +15,6 @@ import javafx.scene.input.KeyCombination;
 
 /**
  * 菜单类, 显示游戏菜单
- * 
- * @author WangJiayuan
  */
 public class MyMenuBar extends MenuBar implements Controllable {
   private final Menu menuGame = new Menu("游戏");

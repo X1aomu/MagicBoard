@@ -16,8 +16,6 @@ import javafx.stage.Stage;
 
 /**
  * 主类
- * 
- * @author WangJiayuan
  */
 public class MainAPP extends Application {
   @Override

@@ -2,8 +2,6 @@ package com.github.X1aomu.magicboard.tool;
 
 /**
  * 成绩记录类, 表示单条记录
- *
- * @author WangJiayuan
  */
 public class Record implements Comparable<Record> {
   private final String name; // 昵称

@@ -11,8 +11,6 @@ import javafx.scene.control.Alert.AlertType;
 
 /**
  * 数据文件相关类. 读入和存储数据文件. 因使用了 Alert 类, 本类中的方法应该在 javafx 的线程中调用.
- * 
- * @author WangJiayuan
  */
 public class DataFile {
   private DataFile() {

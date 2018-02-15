@@ -18,8 +18,6 @@ import javafx.stage.Stage;
 
 /**
  * 游戏面板类, 显示魔板 每个可移动的方块使用按钮来实现
- * 
- * @author WangJiayuan
  */
 public class BoardPane extends GridPane implements Controllable, DifficultyAdjustable {
   private final double BUTTON_SIDE_LENGTH = 60; // 边长
@@ -38,8 +36,6 @@ public class BoardPane extends GridPane implements Controllable, DifficultyAdjus
 
   /**
    * 点击按钮触发的事件 如果当前按钮可移动, 则移动到空白位置
-   * 
-   * @author WangJiayuan
    */
   private class EventMove implements EventHandler<ActionEvent> {
     @Override

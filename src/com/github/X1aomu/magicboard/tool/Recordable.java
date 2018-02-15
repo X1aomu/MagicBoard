@@ -2,9 +2,6 @@ package com.github.X1aomu.magicboard.tool;
 
 /**
  * 可记录接口
- *
- * @author WangJiayuan
- *
  */
 public interface Recordable {
   

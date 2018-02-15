@@ -4,8 +4,6 @@ import java.util.HashSet;
 
 /**
  * 控制器类.
- * 
- * @author WangJiayuan
  */
 public class Controller {
   private Controller() {

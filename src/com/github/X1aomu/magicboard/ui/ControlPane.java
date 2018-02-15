@@ -10,8 +10,6 @@ import javafx.scene.text.Font;
 
 /**
  * 控制面板类
- *
- * @author WangJiayuan
  */
 public class ControlPane extends HBox implements Controllable {
   private final Button left;

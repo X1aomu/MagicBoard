@@ -23,8 +23,6 @@ import javafx.stage.Stage;
 
 /**
  * 显示排行榜窗口类
- *
- * @author WangJiayuan
  */
 public class LeaderBoardWindow extends Stage {
   private final Integer[] difficultyList = Controller.getDifficultyList();

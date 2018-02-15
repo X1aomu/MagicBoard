@@ -10,9 +10,6 @@ import com.github.X1aomu.magicboard.ui.NewRecordWindow;
 
 /**
  * 记录器类
- *
- * @author WangJiayuan
- *
  */
 public class Recorder {
   private Recorder() {}

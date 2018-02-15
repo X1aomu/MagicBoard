@@ -17,8 +17,6 @@ import javafx.scene.text.Font;
 /**
  * 计时器类, 显示游戏时间
  * 该类使用 java.time 包来实现与时间相关的操作
- * 
- * @author WangJiayuan
  */
 public class TimerLabel extends Label implements Controllable, Recordable {
   private final double NANO_PER_SECOND = 1000000000;

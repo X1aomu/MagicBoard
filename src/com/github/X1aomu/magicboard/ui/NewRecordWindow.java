@@ -21,8 +21,6 @@ import javafx.stage.Stage;
 
 /**
  * 创建新记录窗口类
- *
- * @author WangJiayuan
  */
 public class NewRecordWindow extends Stage {
   private final Text durationText; // 本次成绩
